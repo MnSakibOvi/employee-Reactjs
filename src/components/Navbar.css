@@ -1,0 +1,31 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #ffffff; 
+    border-bottom: 2px solid #ccc;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.1); 
+}
+
+.navbar-logo {
+    width: auto; 
+    height: auto;
+}
+
+.navbar-buttons {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-button {
+    background-color: rgb(182, 141, 76);
+    color: #fff;
+    border: 1px solid #ccc;
+    padding: 8px 12px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.navbar-button:hover {
+    background-color: rgb(139, 96, 28);
+}

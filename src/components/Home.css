@@ -1,0 +1,29 @@
+.home-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: rgb(182,141,76);
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Arial', sans-serif;
+}
+
+.home-heading {
+    font-size: 30px;
+    color: rgb(31,59,8);
+    margin-bottom: 20px;
+}
+
+.home-content {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+}
+
+
+
+

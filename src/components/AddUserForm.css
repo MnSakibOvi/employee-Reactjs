@@ -1,0 +1,27 @@
+
+.add-user-form-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.user-form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.nav-button {
+    background-color: rgb(31,59,8);
+}
+.nav-button:hover {
+    background-color: rgb(67, 113, 30);
+}
